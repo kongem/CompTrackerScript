@@ -1,0 +1,25 @@
+-Jan-2018
+0 SINGLEFIELD--------------------------------------------------------------
+0 SIN SPIT
+0 POP--------------------------------------------------------------
+0 POP SPIL
+0 MULTIFIELD--------------------------------------------------------------
+0 IMRT--------------------------------------------------------------
+0 IMR BRAI VMAT
+0 IMR BLAD VMAT
+0 IMR EYER VMAT
+0 IMR FACB VMAT
+0 IMR FACL VMAT
+0 IMR LIVR
+0 IMR LUNR
+0 IMR LUNL
+0 IMR NECB VMAT
+0 IMR NECL VMAT
+0 IMR PELB VMAT
+0 IMR PELR VMAT
+0 IMR PROS VMAT
+0 MATCHING FIELDS--------------------------------------------------
+0 EXTENDEDBEAM-----------------------------------------------------
+0 TANGENTS---------------------------------------------------------
+0 TAN BREL
+0 TAN BRER
